@@ -1,0 +1,463 @@
+@media (min-width: 300px) and (max-width: 1280px) {
+  .social {
+    a {
+      font-size: 2rem;
+    }
+  }
+}
+// ------------------ Extra small device------------------------------------------- @webdev_guru
+@media (min-width: 300px) and (max-width: 399px) {
+  .quote_2 {
+    display: none;
+  }
+  .left__side {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 3rem;
+    padding-top: 2.5rem;
+    img {
+      height: 400px;
+    }
+  }
+  .right__side {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 3rem;
+    .nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 100%;
+      padding: 0 0.8rem;
+      menu {
+        margin-left: 0.5rem;
+        ul {
+          li + li {
+            margin-left: 0.5rem;
+          }
+        }
+      }
+    }
+    .social {
+      a + a {
+        margin-left: 2rem;
+      }
+    }
+  }
+
+  // xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx End of Home Section xxxxxxxxxxxxxxxxxxxxxxx
+
+  // ------------------------------------------------ About Sectin -------------------------
+  .main {
+    padding: 0 1.3rem;
+    margin-top: 2rem;
+    .main_wrapper {
+      flex-direction: column;
+      .skills {
+        margin-top: 0;
+
+        .skills__container {
+          width: 100%;
+        }
+      }
+    }
+  }
+  // ------------------------------------------------ comman heanding-------------------------
+  .about_me {
+    padding-top: 3rem;
+    width: 100%;
+    h2 {
+      font-size: 1.5rem;
+    }
+    div {
+      width: 100px;
+      margin-left: 1rem;
+    }
+  }
+  // ------------------------------------------------ project Section -------------------------
+  .project {
+    padding: 0 1.3rem;
+  }
+  // ------------------------------------------------ contact Section -------------------------
+  .contact_section {
+    padding: 0 1.3rem;
+  }
+}
+
+// ------------------ small device------------------------------------------- @webdev_guru
+@media (min-width: 400px) and (max-width: 480px) {
+  .quote_2 {
+    display: none;
+  }
+  .left__side {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 3rem;
+    padding-top: 2.5rem;
+    img {
+      height: 400px;
+    }
+  }
+  .right__side {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 3rem;
+    .nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 100%;
+      padding: 0 1rem;
+      menu {
+        margin-left: 1rem;
+      }
+    }
+  }
+  // xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx End of Home Section xxxxxxxxxxxxxxxxxxxxxxx
+
+  // ------------------------------------------------ About Sectin -------------------------
+  .main {
+    padding: 0 1.3rem;
+    margin-top: 2rem;
+    .main_wrapper {
+      flex-direction: column;
+      .skills {
+        margin-top: 0;
+        .skills__container {
+          width: 100%;
+        }
+      }
+    }
+  }
+  .about_me {
+    padding-top: 3rem;
+    width: 100%;
+    div {
+      width: 150px;
+      margin-left: 1rem;
+    }
+  }
+  // ------------------------------------------------ project Section -------------------------
+  .project {
+    padding: 0 1.3rem;
+  }
+  // ------------------------------------------------ contact Section -------------------------
+  .contact_section {
+    padding: 0 1.3rem;
+  }
+}
+// ------------------ medium device------------------------------------------- @webdev_guru
+@media (min-width: 481px) and (max-width: 767px) {
+  .quote_2 {
+    display: none;
+  }
+  .left__side {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 3rem;
+    padding-top: 2.5rem;
+    img {
+      height: 400px;
+    }
+  }
+  .right__side {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 3rem;
+    .logo {
+      img {
+        height: 45px;
+        width: auto;
+      }
+    }
+    .nav {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      menu {
+        margin-left: 2rem;
+        ul {
+          font-size: 13px;
+        }
+      }
+    }
+  }
+  // xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx End of Home Section xxxxxxxxxxxxxxxxxxxxxxx
+
+  // ------------------------------------------------ About Sectin -------------------------
+  .main {
+    padding: 0 2rem;
+    margin-top: 2rem;
+    .main_wrapper {
+      flex-direction: column;
+      .skills {
+        margin-top: 0;
+        .skills__container {
+          width: 100%;
+        }
+      }
+    }
+  }
+  .about_me {
+    padding-top: 3rem;
+    width: 100%;
+    div {
+      width: 200px;
+      margin-left: 1rem;
+    }
+  }
+  // ------------------------------------------------ project Section -------------------------
+  .project {
+    padding: 0 2rem;
+  }
+  // ------------------------------------------------ contact Section -------------------------
+  .contact_section {
+    padding: 0 2rem;
+  }
+}
+// ------------------ laptops------------------------------------------- @webdev_guru
+@media (min-width: 768px) and (max-width: 1280px) {
+  .quote_2 {
+    display: none;
+  }
+  .left__side {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 3rem;
+    padding-top: 2.5rem;
+    img {
+      height: 500px;
+    }
+  }
+  .right__side {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 3rem;
+    .logo {
+      img {
+        height: 50px;
+        width: auto;
+      }
+    }
+    .nav {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      menu {
+        margin-left: 5rem;
+        ul {
+          font-size: 15px;
+        }
+      }
+    }
+    .quote {
+      font-size: 2rem;
+    }
+  }
+  // xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx End of Home Section xxxxxxxxxxxxxxxxxxxxxxx
+
+  // ------------------------------------------------ About Sectin -------------------------
+  .main {
+    padding: 0 7rem;
+    margin-top: 2rem;
+    .main_wrapper {
+      flex-direction: column;
+      align-items: center;
+      .skills {
+        margin-top: 0;
+        .skills__container {
+          width: 590px;
+        }
+      }
+    }
+  }
+  .about_me {
+    padding-top: 3rem;
+    width: 100%;
+    div {
+      align-items: center;
+      width: 250px;
+      margin-left: 1rem;
+    }
+  }
+  // ------------------------------------------------ project Section -------------------------
+  .project {
+    padding: 0 7rem;
+  }
+  // ------------------------------------------------ contact Section -------------------------
+  .contact_section {
+    padding: 0 7rem;
+  }
+}
+// ------------------ Desktop and large screen ------------------------------------------- @webdev_guru
+@media (min-width: 1281px) {
+  .container {
+    display: flex;
+    flex-direction: row-reverse;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    .quote {
+      display: none;
+    }
+    .quote_2 {
+      position: absolute;
+      left: 6rem;
+      top: 30%;
+      font-size: 58px;
+      font-family: "Anton";
+      line-height: 70px;
+      font-weight: 700;
+      color: rgb(230, 241, 255);
+      letter-spacing: 1px;
+    }
+  }
+  .right__side {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    padding-left: 6rem;
+    .nav {
+      display: flex;
+      align-items: center;
+      padding: 0;
+      .logo img {
+        height: 50px;
+        width: auto;
+      }
+      menu {
+        margin-left: 5rem;
+        ul {
+          font-size: 15px;
+        }
+      }
+    }
+    .social {
+      a {
+        font-size: 2.4rem;
+      }
+    }
+  }
+  .left__side {
+    img {
+      height: 100%;
+    }
+  }
+  // xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx End of Home Section xxxxxxxxxxxxxxxxxxxxxxx
+
+  // ------------------------------------------------ About Sectin -------------------------
+  .main {
+    padding: 0 6rem;
+    margin-top: 2rem;
+    .main_wrapper {
+      margin-top: 2rem;
+      p {
+        font-size: 1.1rem;
+      }
+    }
+  }
+  .about_me {
+    padding-top: 5rem;
+    width: 100%;
+    h2 {
+      font-size: 2.5rem;
+    }
+    div {
+      width: 200px;
+      margin-left: 1rem;
+    }
+  }
+  // ------------------------------------------------ project Section -------------------------
+  .project {
+    padding: 0 6rem;
+    margin-top: 2rem;
+    .project_card {
+      display: none;
+    }
+    // ======================================== project card for desktop =================
+    .project_card_desktop {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 5rem;
+      flex-direction: column;
+      .card_desktop {
+        display: flex;
+        position: relative;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        border: 8px solid rgb(100, 255, 218);
+        height: 320px;
+        width: 550px;
+        margin-bottom: 8rem;
+        img {
+          position: absolute;
+          width: 100%;
+          max-width: 450px;
+          height: auto;
+          left: 0;
+          transform: translateX(-40%);
+          border-radius: 3px;
+          box-shadow: 0 5px 10px rgba(0, 0, 0, 0.575);
+          transition: transform 0.4s ease;
+          &:hover {
+            transform: scale(1.05) translateX(-38%);
+          }
+        }
+        .hidden_bg {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          position: absolute;
+          right: 0;
+          transform: translate(50%, 0);
+          background: #0a192f;
+          text-align: center;
+          max-width: 380px;
+          padding: 1rem 0;
+          span {
+            padding-bottom: 0.2rem;
+          }
+          p {
+            padding-bottom: 1rem;
+          }
+          .btn {
+            padding: 1rem 0;
+            background: #000;
+            border-radius: 3px;
+            height: 40px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            transition: all 0.4s ease-out;
+            width: 100px;
+            &:hover {
+              background: rgb(100, 255, 218);
+              color: #000;
+            }
+            i {
+              margin-left: 0.7rem;
+            }
+          }
+        }
+      }
+    }
+  }
+  // ------------------------------------------------ contact Section -------------------------
+  .contact_section {
+    padding: 0 7rem;
+  }
+}

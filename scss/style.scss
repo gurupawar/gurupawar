@@ -1,0 +1,218 @@
+@import "screen";
+@import "reset";
+@import "component";
+@import "theme";
+body {
+  font-family: "Roboto", sans-serif;
+  background: var(--bg-color);
+  color: var(--text-color);
+}
+// ---------------------------main contianer of hero section--------------
+.container {
+  overflow: hidden;
+}
+
+// ---------------------------right_side Nav, menu and logo --------------
+.nav {
+  width: 100%;
+  padding: 0 2rem;
+
+  .logo img {
+    height: 40px;
+    width: auto;
+  }
+
+  menu {
+    a {
+      color: var(--text-color);
+      text-decoration: none;
+      cursor: pointer;
+      text-transform: capitalize;
+      transition: 0.4s;
+      position: relative;
+      font-weight: 300;
+      &:hover {
+        color: var(--theme);
+      }
+
+      &:after {
+        content: "";
+        position: absolute;
+        width: 5px;
+        height: 5px;
+        background: var(--theme);
+        left: 0;
+        bottom: -10px;
+        border-radius: 50%;
+        opacity: 0;
+        transition: 0.4s;
+      }
+      &:hover:after {
+        left: 50%;
+        opacity: 1;
+      }
+    }
+    ul {
+      font-size: 12px;
+      display: flex;
+
+      li + li {
+        margin-left: 1rem;
+      }
+    }
+  }
+}
+// -------------------------- main Hero Image--------------
+.left__side {
+  width: 100%;
+  height: 100%;
+  img {
+    border-radius: 5px;
+    // border: 3px solid rgba(255, 255, 255, 0.089);
+  }
+}
+// xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+.right__side {
+  width: 100%;
+  height: 100%;
+  .social {
+    a {
+      text-decoration: none;
+      color: var(--text-color);
+      cursor: pointer;
+      text-transform: capitalize;
+      transition: 0.2s;
+      i {
+        transition: 0.3s;
+      }
+      i:hover {
+        transform: translate(0, -5px);
+      }
+      .fa:hover {
+        color: var(--theme);
+      }
+    }
+  }
+}
+// ---------------------------main Quote--------------
+.quote {
+  text-align: center;
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  color: var(--text-color);
+  font-family: "Anton";
+  margin-bottom: 3rem;
+}
+
+.main {
+  width: 100%;
+  height: 100vh;
+}
+.about_me {
+  display: flex;
+  h2 {
+    position: relative;
+    font-weight: 500;
+    margin: auto 0;
+  }
+  div {
+    height: 2px;
+    background: #2d3952;
+    margin: auto 0;
+    margin-left: 1rem;
+  }
+}
+.main_wrapper {
+  margin-top: 2rem;
+  display: flex;
+  p {
+    max-width: 590px;
+  }
+  .btn {
+    width: 100px;
+    margin-top: 2rem;
+  }
+}
+
+// ---------------------------project section --------------
+.project {
+  width: 100%;
+  height: 100%;
+  .card_desktop {
+    display: none;
+  }
+}
+
+.contact_section {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 8rem;
+  .contact_message {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 2rem;
+    p {
+      max-width: 550px;
+      font: 1.2rem;
+      font-weight: 400;
+    }
+  }
+  .contact_us {
+    max-width: 450px;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    .input_filed {
+      width: 100%;
+      height: 40px;
+      color: gray;
+      margin-bottom: 20px;
+      padding: 10px;
+      background: var(--heading);
+      border: 0;
+      font-size: 14px;
+      border-radius: 3px;
+      &:focus {
+        outline: none;
+      }
+    }
+    .text_aria {
+      height: 150px;
+    }
+    .btn {
+      width: 120px;
+    }
+  }
+}
+
+// ================================================ footer =========================
+.footer {
+  width: 100%;
+  margin-top: 50px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 500;
+  background: var(--footer);
+  padding: 10px 0;
+  .credit {
+    p {
+      padding: 15px;
+      a {
+        color: var(--theme);
+        text-decoration: none;
+        font-weight: 400;
+      }
+      .fa-heart {
+        color: var(--theme);
+      }
+    }
+  }
+}

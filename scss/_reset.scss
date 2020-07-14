@@ -1,0 +1,65 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+::-webkit-scrollbar-track {
+  border: 1px solid transparent;
+  background-color: var(--bg-color);
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+
+  background-color: var(--bg-color);
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 100px;
+  background: linear-gradient(-45deg, #64ffda, #00b98d);
+}
+
+*::selection {
+  background: rgb(100, 255, 218);
+  color: #ffffff;
+}
+ul,
+ol {
+  list-style: none;
+  color: rgb(136, 146, 176);
+}
+
+p {
+  font-weight: 300;
+  line-height: 1.6;
+  color: rgb(136, 146, 176);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Anton";
+  color: #e6f1ff;
+}
+a {
+  text-decoration: none;
+  color: rgb(136, 146, 176);
+}
+a + a {
+  margin-left: 3rem;
+}
+
+span {
+  // font-weight: 500;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  font-family: "anton";
+  color: #dce7f6;
+  letter-spacing: 0.5px;
+}
