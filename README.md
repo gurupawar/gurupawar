@@ -5,6 +5,26 @@ Hi, I'm Guru Pawar, a passionate frontEnd web developer from Nashik, Maharashtra
 - 🔭 I’m currently working on open source portfolio website.
 - 🌱 I’m currently learning VueJS
 - 📫 How to reach me:
+  <br/>
+  <a href="https://twitter.com/yep_its_guru">
+  <img align="left" alt="Guru Pawar| Twitter" width="22px" src="https://raw.githubusercontent.com/gurupawar/gurupawar/master/assets/icons/twitte.svg" />
+  </a>
+  <a href="https://github.com/gurupawar">
+  <img align="left" alt="Guru Pawar| Github" width="22px" src="https://raw.githubusercontent.com/gurupawar/gurupawar/master/assets/icons/github.svg" />
+  </a>
+  <a href="https://www.instagram.com/webdev_guru/">
+  <img align="left" alt="Guru Pawar| Instagram" width="22px" src="https://raw.githubusercontent.com/gurupawar/gurupawar/master/assets/icons/intagram.svg" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC_49i7nFW4h3oEY2EPU467w">
+  <img align="left" alt="Guru Pawar| Youtube" width="22px" src="https://raw.githubusercontent.com/gurupawar/gurupawar/master/assets/icons/youtube.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/gurusheshp/">
+  <img align="left" alt="Guru Pawar| Linkedin" width="22px" src="https://raw.githubusercontent.com/gurupawar/gurupawar/master/assets/icons/linkedin.svg" />
+  </a>
+  <a href="vickypawar185@gmail.com">
+  <img align="left" alt="Guru Pawar| Linkedin" width="22px" src="https://raw.githubusercontent.com/gurupawar/gurupawar/master/assets/icons/email.svg" />
+  </a>
+  <br/>
 
 ## Skills
 
@@ -17,4 +37,4 @@ Hi, I'm Guru Pawar, a passionate frontEnd web developer from Nashik, Maharashtra
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=gurupawar&&show_icons=true&title_color=000000&icon_color=#000&text_color=000000">
+<img src="https://github-readme-stats.vercel.app/api?username=gurupawar&&show_icons=true&title_color=000000&icon_color=#000000&text_color=000000">
