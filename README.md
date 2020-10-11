@@ -10,7 +10,7 @@ Hi, I'm Guru Pawar, a passionate frontEnd web developer from Nashik, Maharashtra
    <a href="https://www.linkedin.com/in/gurusheshp/">
   <img align="left" alt="Guru Pawar| Linkedin" width="25px" src="https://raw.githubusercontent.com/gurupawar/gurupawar/master/assets/icons/linkedin.svg" />
   </a>
-  <a href="https://www.instagram.com/webdev_guru/">
+  <a href="https://www.instagram.com/">
   <img align="left" alt="Guru Pawar| Instagram" width="25px" src="https://raw.githubusercontent.com/gurupawar/gurupawar/master/assets/icons/instagram.svg" />
   </a>
    <a href="https://github.com/gurupawar">
