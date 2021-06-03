@@ -2,8 +2,7 @@
 
 Hi, I'm Guru Pawar, a passionate frontEnd web developer from Nashik, Maharashtra.
 
-- 🔭 I’m currently working on open source portfolio website.
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Vue.js
 
 ## Connect with me:
 
