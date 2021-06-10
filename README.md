@@ -2,7 +2,7 @@
 
 Hi, I'm Gurushesh Pawar, a passionate frontEnd web developer from Dhule, Maharashtra.
 
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning React.js
 
 ## Connect with me:
 
