@@ -16,7 +16,6 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     </p>
 
-<img src="https://img.shields.io/badge/Illustrator -ff7b19" /> <img src="https://img.shields.io/badge/Photoshop -30a8fe" />
 
 ## Github Stats
 
