@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on **Front-end projects**
 - 🌱 I’m currently learning **React.js and NodeJS**
-- 👯 I’m looking to collaborate on **UI/UX projects**
 - 📫 How to reach me: [LinkedIn - @gurusheshp](https://www.linkedin.com/in/gurusheshp/)
 
 <h3 align="left">Languages and Tools:</h3>
