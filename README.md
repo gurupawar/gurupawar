@@ -15,11 +15,11 @@ Currently open for full-time/intern job roles in frontend development & UI devel
 
 ### Skills
 
-- Languages - JAVA, `Javascript`
-- Frontend - `Html`, Css, Scss, Bootstrap, `ReactJS`
-- Backend - `Spring Boot`, Hibernate, JDBC, `JSP`
-- Databases - MySql
-- Tools and Technologies - Git, NPM, Yarn, Github-Pages, Vercel, Netlify,
+- Languages - `JAVA`, `Javascript`
+- Frontend - `Html`, `Css`, `Scss`, `Bootstrap`, `ReactJS`
+- Backend - `Spring Boot`, `Hibernate`, `JDBC`, `JSP`
+- Databases - `MySql`
+- Tools and Technologies - `Git`, `NPM`, `Yarn`, `Github-Pages`, `Vercel`, `Netlify`,
 - Areas for interests - `Backend`,`Web Development`, `Frontend Development`, `UI Design/Development` & `Java Developer`
 
 <!-- <h3 align="left">Languages and Tools:</h3>
