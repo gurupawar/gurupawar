@@ -10,7 +10,7 @@ Currently open for full-time job roles in frontend development & Backend develop
 <h3>I'm Gurushesh Pawar, a passionate FrontEnd Web Developer from India</h3>
 
 - 🔭 I’m currently working on **Front-end projects**
-- 🌱 I’m currently learning **React.js and NodeJS**
+- 🌱 I’m currently learning **Next.js, Node.js, Express.js and MongoDB**
 - 📫 How to reach me: [LinkedIn - @gurusheshp](https://www.linkedin.com/in/gurusheshp/)
 
 ### Skills
