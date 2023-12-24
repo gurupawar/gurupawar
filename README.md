@@ -51,5 +51,3 @@ Currently open for full-time/intern job roles in frontend development & UI devel
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurupawar&layout=compact&theme=white" alt="gurupawar" width=48%" >
   <img src="https://github-readme-stats.vercel.app/api?username=gurupawar&&show_icons=true&theme=graywhite" align="right" width="48%">
 </p>
-
-[![Guru's github activity graph](https://activity-graph.herokuapp.com/graph?username=gurupawar&theme=xcode)](https://git.io/gurupawar)
