@@ -4,7 +4,7 @@
 
 ```javascript
 
-Currently open for full-time/intern job roles in frontend development & UI development
+Currently open for full-time job roles in frontend development & UI development
 ```
 
 <h3>I'm Gurushesh Pawar, a passionate FrontEnd Web Developer from India</h3>
@@ -15,12 +15,12 @@ Currently open for full-time/intern job roles in frontend development & UI devel
 
 ### Skills
 
-- Languages - `JAVA`, `Javascript`
-- Frontend - `Html`, `Css`, `Scss`, `Bootstrap`, `ReactJS`
+- Languages - `JavaScript(ES6)`,`JAVA`
+- Frontend - `ReactJS`, `Next.js`, `Gatsby`, `Vue.js`, `Redux`, `VueX`,`Html`, `Css`, `Scss`, `Bootstrap`, `TailwindCSS`, `MaterialUI`, 'ChakraUI'
 - Backend - `Spring Boot`, `Hibernate`, `JDBC`, `JSP`
-- Databases - `MySql`
-- Tools and Technologies - `Git`, `NPM`, `Yarn`, `Github-Pages`, `Vercel`, `Netlify`,
-- Areas for interests - `Backend`,`Web Development`, `Frontend Development`, `UI Design/Development` & `Java Developer`
+- Databases - `MySql, MongoDB`
+- Tools and Technologies - `Firebase`, `Git`, `NPM`, `Yarn`, `Github-Pages`, `Vercel`, `Netlify`,
+- Areas for interests - `Frontend Development`, `Backend`,`Web Development`, `UI Design/Development` & `Java Developer`
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p>
