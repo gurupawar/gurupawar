@@ -50,5 +50,7 @@ Currently open for full-time job roles in frontend development & Backend develop
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurupawar&layout=compact&theme=white" alt="gurupawar" width=48%" >
   <img src="https://github-readme-stats.vercel.app/api?username=gurupawar&&show_icons=true&theme=graywhite" align="right" width="48%">
- [![gurupawar's GitHub | Stats](https://stats.quine.sh/gurupawar/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gurupawar)
+
 </p>
+
+ [![gurupawar's GitHub | Stats](https://stats.quine.sh/gurupawar/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gurupawar)
